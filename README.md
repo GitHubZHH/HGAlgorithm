@@ -1,2 +1,4 @@
 # HGAlgorithm
-HGAlgorithm 算法
+给**算法**来个小总结。
+
+
